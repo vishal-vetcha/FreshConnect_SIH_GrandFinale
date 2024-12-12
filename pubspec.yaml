@@ -1,0 +1,55 @@
+name: fresh_connect_sih
+description: "A new Flutter project."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.5.1
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  firebase_core: ^3.8.0
+  firebase_auth: ^5.3.3
+  cloud_firestore: ^5.5.0
+  video_player: ^2.5.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/logo.png
+    - assets/images/namelogo.png
+    - assets/images/cabbage.png
+    - assets/images/carrot.png
+    - assets/images/spinach.jpg
+    - assets/images/tomato.jpg
+    - assets/images/potato.jpg
+    - assets/images/biowaste.jpg
+    - assets/images/plant_control.jpg
+    - assets/images/valve1_open.jpg
+    - assets/images/valve2_open.jpg
+    - assets/images/valve3_open.jpg
+    - assets/images/barchart_v1.jpg
+    - assets/images/barchart_v2.jpg
+    - assets/images/barchart_v3.jpg
+    - assets/images/barchart_initial.jpg
+    - assets/images/valve4_open.jpg
+    - assets/images/valve5_open.jpg
+    - assets/images/fan1_open.jpg
+    - assets/images/tank1_initial.jpg
+    - assets/images/valve6_open.jpg
+    - assets/images/valve7_open.jpg
+    - assets/images/valve8_open.jpg
+    - assets/images/s1_open.jpg
+    - assets/images/t2c_on.jpg
+    - assets/images/t2c_off.jpg
+    - assets/images/valve9_open.jpg
+    - assets/images/valve10_open.jpg
+    - assets/images/valve11_open.jpg
