@@ -77,6 +77,5 @@ The app allows farmers to sell agricultural waste directly to recycling companie
 
 ## 👥 Team FreshConnect_GVTZ
 * **Team ID:** 37364 [cite: 7]
-* **Lead Developer:** [Vishal Vetcha](https://github.com/vishal-vetcha)
 
 Would you like me to help you draft the **System Architecture Diagram** or the **API Documentation** to further enhance this repository?
